@@ -1,16 +1,15 @@
-### Hi there 👋
+<div align="center">
 
-<!--
-**AishwaryaNair687/AishwaryaNair687** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  ### Hi there, welcome to my Github! 👋
+</div>  
 
-Here are some ideas to get you started:
+<div align="center">
+  
+  **📫 Reach me at:**<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  [![Instagram Badge](https://img.shields.io/badge/-Instagram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=Instagram&logoColor=white&link=https://instagram.com/aishwaryanair01?igshid=YmMyMTA2M2Y=)](https://instagram.com/aishwaryanair01?igshid=YmMyMTA2M2Y=)
+  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aishwarya-nair-b2444418b)](https://www.linkedin.com/in/aishwarya-nair-b2444418b)
+  [![Facebook  Badge](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/aishwarya.nair.10485)
+  
+
+</div>
